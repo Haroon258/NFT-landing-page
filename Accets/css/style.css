@@ -1,0 +1,72 @@
+* {
+    margin: 0%;
+    padding: 0%;
+    background-color: #141943;
+    font-family: Poppins;
+}
+
+.container {
+    max-width: 1440px;
+    margin: 0 auto;
+}
+
+.gradiant {
+    background: linear-gradient(90deg, #69EACB 0%, #EACCF8 48%, #6654F1 100%);
+    -webkit-text-fill-color: transparent;
+    -webkit-background-clip: text;
+}
+
+.grade {
+    background: linear-gradient(90deg, #69EACB 0%, #EACCF8 48%, #6654F1 100%);
+    -webkit-text-fill-color: transparent;
+    -webkit-background-clip: text;
+}
+
+
+.border-syl {
+    border: 2px solid white;
+    border-radius: 20px;
+}
+.to-bg{
+    background: linear-gradient(155deg, rgba(255, 255, 255, 0.00) -2.13%, rgba(255, 255, 255, 0.15) 136.58%);
+
+}
+.bg-1{
+    background: linear-gradient(to right, #69EACB 30% , #EACCF8 , #6654F1 );
+    -webkit-text-fill-color: transparent;
+    -webkit-background-clip: text;
+    }
+
+    .border-grade{
+        background: linear-gradient(to right, red, purple);
+    }
+
+
+    .a1{
+  position: relative;
+  background: linear-gradient(to right, #69EACB 30%, #EACCF8 , #6654F1);
+  padding: 2px;
+    }
+    .bg-2{
+        background: linear-gradient(to right, #69EACB 48% , #EACCF8 20% , #6654F1 55%);
+        -webkit-text-fill-color: transparent;
+        -webkit-background-clip: text; }
+    .search-bar{
+        width: 100%;
+        max-width: 865px;
+        background-color: #D9D9D9;
+        display: flex;
+        align-items: center;
+        border-radius: 60px;
+        
+    }
+    .search-bar input{
+        background: transparent;
+        flex:  1;
+        border: 0;
+        border-radius: 60px;
+        outline: none;
+    }
+    
+
+    
